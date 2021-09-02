@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020.09.08 22:55:11.696.cpp,C:\Users\HappyMan\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\HappyMan\Desktop\TIMEAFK\Unit1.cpp</Transaction>
+    <Transaction>2020.09.08 22:55:11.696.h,C:\Users\HappyMan\Documents\RAD Studio\Projects\Unit1.h=C:\Users\HappyMan\Desktop\TIMEAFK\Unit1.h</Transaction>
+    <Transaction>2020.09.08 22:55:11.696.dfm,C:\Users\HappyMan\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\HappyMan\Desktop\TIMEAFK\Unit1.dfm</Transaction>
+    <Transaction>2020.09.08 22:55:12.600.cbproj,C:\Users\HappyMan\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\HappyMan\Desktop\TIMEAFK\Project1.cbproj</Transaction>
+    <Transaction>2020.09.09 00:36:42.440.cpp,C:\Users\HappyMan\Desktop\TIMEAFK\Unit1.cpp=C:\Users\HappyMan\Desktop\TIMEAFK\Clock.cpp</Transaction>
+    <Transaction>2020.09.09 00:36:42.440.h,C:\Users\HappyMan\Desktop\TIMEAFK\Unit1.h=C:\Users\HappyMan\Desktop\TIMEAFK\Clock.h</Transaction>
+    <Transaction>2020.09.09 00:36:42.440.dfm,C:\Users\HappyMan\Desktop\TIMEAFK\Unit1.dfm=C:\Users\HappyMan\Desktop\TIMEAFK\Clock.dfm</Transaction>
+    <Transaction>2020.09.09 00:41:11.899.cpp,C:\Users\HappyMan\Desktop\TIMEAFK\Unit2.cpp=C:\Users\HappyMan\Desktop\TIMEAFK\Main.cpp</Transaction>
+    <Transaction>2020.09.09 00:41:11.899.h,C:\Users\HappyMan\Desktop\TIMEAFK\Unit2.h=C:\Users\HappyMan\Desktop\TIMEAFK\Main.h</Transaction>
+    <Transaction>2020.09.09 00:41:11.899.dfm,C:\Users\HappyMan\Desktop\TIMEAFK\Unit2.dfm=C:\Users\HappyMan\Desktop\TIMEAFK\Main.dfm</Transaction>
+    <Transaction>2020.09.09 23:21:43.234.jpg,C:\Users\HappyMan\Desktop\TIMEAFK\back.jpg=</Transaction>
+    <Transaction>2020.09.11 13:41:59.340.cpp,C:\Users\HappyMan\Desktop\TIMEAFK\Clock.cpp=C:\Users\HappyMan\Desktop\TIMEAFK\FIOClock.cpp</Transaction>
+    <Transaction>2020.09.11 13:41:59.340.h,C:\Users\HappyMan\Desktop\TIMEAFK\Clock.h=C:\Users\HappyMan\Desktop\TIMEAFK\FIOClock.h</Transaction>
+    <Transaction>2020.09.11 13:41:59.340.dfm,C:\Users\HappyMan\Desktop\TIMEAFK\Clock.dfm=C:\Users\HappyMan\Desktop\TIMEAFK\FIOClock.dfm</Transaction>
+    <Transaction>2020.09.11 13:42:09.482.cpp,C:\Users\HappyMan\Desktop\TIMEAFK\Main.cpp=C:\Users\HappyMan\Desktop\TIMEAFK\FIOMain.cpp</Transaction>
+    <Transaction>2020.09.11 13:42:09.482.h,C:\Users\HappyMan\Desktop\TIMEAFK\Main.h=C:\Users\HappyMan\Desktop\TIMEAFK\FIOMain.h</Transaction>
+    <Transaction>2020.09.11 13:42:09.482.dfm,C:\Users\HappyMan\Desktop\TIMEAFK\Main.dfm=C:\Users\HappyMan\Desktop\TIMEAFK\FIOMain.dfm</Transaction>
+    <Transaction>2020.09.11 14:25:13.460.cbproj,C:\Users\HappyMan\Desktop\TIMEAFK\Project1.cbproj=C:\Users\HappyMan\Desktop\TIMEAFK\AFKClock.cbproj</Transaction>
+    <Transaction>2020.09.13 21:59:18.366.cbproj,C:\Users\HappyMan\Desktop\TIMEAFK\AFKClock.cbproj=C:\Users\HappyMan\Desktop\TIMEAFK\FIOAFKClock.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="FIOAFKClock.cpp"/>
+    <File Path="FIOAFKClock.res"/>
+    <File Path="FIOClock.cpp"/>
+    <File Path="FIOClock.cpp"/>
+    <File Path="FIOClock.dfm"/>
+    <File Path="FIOClock.h"/>
+    <File Path="FIOMain.cpp"/>
+    <File Path="FIOMain.cpp"/>
+    <File Path="FIOMain.dfm"/>
+    <File Path="FIOMain.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
